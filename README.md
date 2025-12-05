@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TG-114514
 - 👀 I’m interested in Mechanical Engineering
-- 🌱 I’m currently learning CAD, Solidworks, Java and Matlab
+- 🌱 I’m currently learning SolidWorks, Java and Matlab
 - 💞️ I’m looking to collaborate on Entrance level Java Project
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can always find a parking spot
